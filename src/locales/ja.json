@@ -8100,5 +8100,8 @@
   "composer.command.burstDesc": "作業の多くの部分を同時に実行し、結果をまとめます",
   "devices.computers.pairButton": "コンピュータをペアリング",
   "devices.computers.pairTitle": "別のコンピュータをペアリング",
-  "devices.computers.typeCode": "もう一台のコンピュータで {app} の「サーバーに接続」を開き、このコードを入力してください。"
+  "devices.computers.typeCode": "もう一台のコンピュータで {app} の「サーバーに接続」を開き、このコードを入力してください。",
+  "together.switch.title": "このコンピューターと My Cloud をまとめる",
+  "together.switch.line": "既定ではオフです。Cloud のボットとこのコンピューターのボットを 1 つの一覧に表示し、それぞれがある場所で開きます。",
+  "together.switch.failed": "保存できませんでした。もう一度お試しください。"
 }

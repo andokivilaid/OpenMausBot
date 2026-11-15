@@ -7129,5 +7129,8 @@
   "composer.command.burstDesc": "Esegui molte parti di un lavoro insieme, poi unisci i risultati",
   "devices.computers.pairButton": "Associa un computer",
   "devices.computers.pairTitle": "Associa un altro computer",
-  "devices.computers.typeCode": "Sull'altro computer, apri Connetti a un server in {app} e digita questo codice."
+  "devices.computers.typeCode": "Sull'altro computer, apri Connetti a un server in {app} e digita questo codice.",
+  "together.switch.title": "Questo computer e Il mio Cloud insieme",
+  "together.switch.line": "Disattivato per impostazione predefinita. I bot del Cloud e quelli di questo computer compaiono in un unico elenco, e ognuno si apre dove si trova.",
+  "together.switch.failed": "Non è stato possibile salvare. Riprova."
 }

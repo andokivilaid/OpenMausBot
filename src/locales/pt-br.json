@@ -10919,5 +10919,14 @@
   "settings.browser.proxyConfigured": "As novas conexões do navegador integrado usam este proxy SOCKS5. O Meu Chrome mantém as próprias configurações; destinos privados e locais continuam protegidos.",
   "settings.browser.proxyInactive": "Salvo, mas só funciona com o navegador integrado em hosts compatíveis.",
   "settings.browser.proxySave": "Salvar",
-  "settings.browser.proxyClear": "Remover"
+  "settings.browser.proxyClear": "Remover",
+  "together.onCloud": "No My Cloud",
+  "together.onComputer": "Neste computador",
+  "together.state.asleep": "O My Cloud está em repouso. Abra um bot para ativá-lo.",
+  "together.state.waking": "O My Cloud está sendo ativado…",
+  "together.state.offlineCloud": "Não é possível acessar o My Cloud agora.",
+  "together.state.offlineComputer": "Não é possível ler os bots deste computador agora.",
+  "together.switch.title": "Este computador e o My Cloud juntos",
+  "together.switch.line": "Desativado por padrão. Os bots do Cloud e os deste computador aparecem em uma só lista, e cada um abre onde está.",
+  "together.switch.failed": "Não foi possível salvar. Tente de novo."
 }

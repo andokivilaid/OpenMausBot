@@ -3991,5 +3991,8 @@
   "composer.command.burstDesc": "Viele Teile einer Aufgabe gleichzeitig ausführen und die Ergebnisse zusammenführen",
   "devices.computers.pairButton": "Computer koppeln",
   "devices.computers.pairTitle": "Anderen Computer koppeln",
-  "devices.computers.typeCode": "Öffne auf deinem anderen Computer in {app} „Mit einem Server verbinden“ und gib diesen Code ein."
+  "devices.computers.typeCode": "Öffne auf deinem anderen Computer in {app} „Mit einem Server verbinden“ und gib diesen Code ein.",
+  "together.switch.title": "Dieser Computer und Meine Cloud zusammen",
+  "together.switch.line": "Standardmäßig aus. Die Bots der Cloud und die Bots dieses Computers stehen in einer Liste, und jeder öffnet sich dort, wo er läuft.",
+  "together.switch.failed": "Das konnte nicht gespeichert werden. Versuch es noch einmal."
 }
